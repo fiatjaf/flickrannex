@@ -19,12 +19,8 @@
 import sys
 import urllib
 import urllib2
-import re
-import io
 import inspect
 import time
-import HTMLParser
-import json
 
 plugin = ''
 dbglevel = 0
